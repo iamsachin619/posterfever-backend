@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thepostercompany-c368f",
+  "private_key_id": "b2690b4b3d5bb5843472b0aaf62caaec2c5294c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCeMSR25xjw8SVc\nLs6VlGGqHNCl/NFR9zBZsgn29mULz0yF6DKFLYDv042ix2ivJTxGDeu8l0vT5NNA\nycWBgDZZT/nJVyWQDo4yHRmumeC4Iog6mZidBqSE6WyFMigg0f/EhUUXPSqqgRyU\nQcU09uAFIk+ymqN6pCDtRtzauuOifZgApfKcaboNozj/HLp08mD9GaVrZfvHXGY6\n1bDDdQbtulK6kB2VMs7niLI0wClqvcc9+bGAuZBS0VmiSmJQNSMErnIz4sa4B70L\nKhspa/Dk94FRNBcYQX6XfAoJnnYziw7MvmaYcoW3rqyJb73HbWlMFFxOeaJ9MzbU\n7AF7hqZFAgMBAAECggEAB5Fo9y9IfYPBOnnFdFksRaEp8jxNdKhowxcbbESOwlPh\nNf7NJptDXIs4bsiEykGecpOJQEp/XDHJptiAVG5igJSs6eRQwxA53qKPGfqj9Os3\nV+ZalhiSl7E7JIbTw04zTZ7lQUlcgy+4wvb/4kV1TjQ9WoQUvMdMCU38lDz2AE4C\njyMS1vHKF1bwhWJTNpmHDBez0eW2EJlEiHBHbUzESkjDHB04HU0ZSqHCcO/iBN0d\nGzPD02CnumpWCq2M0y8O1Bc3kwkqILA2N61UOkIeUv+Nf2T9uhqn/AojwJFEtzuY\n1x9KD25q3x4Bi/tugoMYnfmRSb82ar9U+OMZ1zCv+QKBgQDcID4g0VHvqCMDBtV8\nbxzV/npwz7oT5l/eJThZlv0LRcSnTs+B64QZjkcD96l50l8+t2B4S+Nmz3zY/Py7\nwAVtANUOtmkVEvzLpCtaPCOwIFxqAwwtE6zIP30hHh33tMMXTkQ1MrV5dp8sdZn+\nvKseGUL6rVC904dcm3VOMi8N/wKBgQC3+Pwm+uNzNgFWjIpBYGe5rM1DZGfQEPE5\n1VElEzIfxLkwcFozRYjwDL8P1c1XMF0Q6PFgQCyDE8p6B+pZsqb5M2uRytG5/Cmt\npFL4Q82RLwh2KOIzy2UFfMhUiAX4AQO6hkAt6MZiu3bCtHE43lGwFbxEWI8o+toW\n2GcujeKTuwKBgQCGYQiMcDxc2X/GMT3SoOIxoRCOHcGytEiCDKbBynLfls/eczYq\nUeRq1Xh065QCUnLijn/N8EX6VWAZ9xcyZp7pVEC8oo6z1suMZcQxadU/iAHilcmx\nGvm3pUp2FTSmKyuN5rGs6C/w3oF9Wq2P3Q15amKBNZy8xY0085JBElG3cQKBgQCv\nBIyFXMrDEQ6G0t64QUmMR0tjIILuWx/RwBEZL0DRHip7XXdCLZWPoOCm5OQbXSQ8\ncQ8oXQS7kjlejGcy/BWDH5rnMMcCo1TXH2vbSU2oH9Fx74T6dzXc2ZAPcvQSsoxk\nh1FJG5iX1vWtV1IbIs0dsh/P+VwARVzyvN60WEDD/wKBgQCovGjjLElc6Xx4NzMv\nz9eIgW2qNRuSsbkutCFwfJEhg78v53p92FaT+HdvgyQCtm/OCcNtuStJPJbyHkIJ\nhNC5s3aJq64O4ZTC9ddrqqmd0J3DlXHemX2X8XBEt2xdcEvc+G5uUgllt9wuYb9B\ngAeD+FlxgUQrqkOi7R4TRTOtEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fmmei@thepostercompany-c368f.iam.gserviceaccount.com",
+  "client_id": "111302178909899141859",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fmmei%40thepostercompany-c368f.iam.gserviceaccount.com"
+}
